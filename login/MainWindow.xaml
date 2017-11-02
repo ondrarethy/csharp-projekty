@@ -49,7 +49,7 @@
         <Label FontSize="15" Content="Uživatelské jméno" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="136"/>
         <Label FontSize="15" Content="Heslo do školní sítě" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="143"/>
         <TextBox Name="uzivjmeno" HorizontalAlignment="Left" Height="23" Margin="194,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <PasswordBox Name="uzivheslo" HorizontalAlignment="Left" Height="23"  Width="120" Margin="194,76,0,100.4"/>
+        <PasswordBox Name="uzivheslo" HorizontalAlignment="Left" Height="23"  Width="120" Margin="194,76,0,0"/>
         <TextBlock FontSize="9" HorizontalAlignment="Left" Margin="10,183,0,0" TextWrapping="Wrap" Text="Autor: Ondřej Rethy " VerticalAlignment="Top"/>
 
     </Grid>
